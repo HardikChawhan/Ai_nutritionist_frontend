@@ -483,7 +483,8 @@ function Home() {
         </div>
       </motion.section>
 
-      {/* Creators Section */}
+      {/*
+      {/* Creators Section 
       <motion.section
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
@@ -561,6 +562,7 @@ function Home() {
             </motion.div>
           ))}
         </div>
+        */}
 
         {/* Support Email */}
         <motion.div
